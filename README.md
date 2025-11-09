@@ -12,7 +12,7 @@ I love combining creativity and logic to design impactful software experiences t
 - 🧠 Strong knowledge in **Python**, **React**, **Django**, **Flask**, **SQL**, and **WebSockets**.  
 - 🏢 Completed an internship at **Hippocloud, Visakhapatnam (June 2025)**, where I worked on a GeeksforGeeks-based project.  
 - 🎯 My goal is to become a **Software Engineer at a top MNC** and contribute to large-scale, meaningful projects.  
-- ⚡ 
+- ⚡ **Hobbies:** Passionate about **bodybuilding**, enjoy **brainstorming and strategy games**, and committed to **continuous learning and self-improvement**.  
 
 ---
 

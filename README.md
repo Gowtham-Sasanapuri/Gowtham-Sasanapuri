@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Gowtham Sasanpuri!
 ### 💻 Full Stack Developer | AI/ML Enthusiast |Mobile App Developer| Passionate Problem Solver
 
-<img align="right" alt="Coding GIF" width="350" src="./215766037-54403913-12c6-48a2-a58a-6090e1ea9f19.gif" />
+<img align="right" alt="Coding GIF" width="350" src="./coding.gif" />
 
 
 🚀 I’m a Computer Science student deeply passionate about **Web Development**, **Machine Learning**,**App Development**, and **building real-world solutions**.  
